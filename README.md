@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiago Monteles</h1>
-- 🔭 I’m currently working on [H.IAAC](https://hiaac.unicamp.br/)
+- 🔭 I’m currently working on [H.IAAC](https://hiaac.unicamp.br/students/thiago-monteles-de-sousa/)
 
 - 🌱 I’m currently learning **Narutal Linguague Process (Speech recognition, sentiment analysis)**
 
