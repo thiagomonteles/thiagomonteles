@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thiago Monteles</h1>
 - 🔭 I’m currently working on [H.IAAC](https://hiaac.unicamp.br/students/thiago-monteles-de-sousa)
 
-- 🌱 I’m currently learning **Narutal Linguague Process (Speech recognition, sentiment analysis)**
+- 🖥️ I also currently hold a position as a Data Scientist for the state government of Goiás - Brazil
 
-- 🎓 Computer Science undergraduate student at [Federal University of Goiás (UFG).](https://inf.ufg.br/p/30138-ciencia-da-computacao)
+- 🌱 I’m currently learning **Narutal Linguague Process (Part-of-speech tagging, Text Generation ,sentiment analysis)**
+
+- 🎓 Graduated in Computer Science at [Federal University of Goiás (UFG).](https://inf.ufg.br/p/30138-ciencia-da-computacao)
 
 - 🙂 Pronoun **He/Him**
 
